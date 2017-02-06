@@ -60,7 +60,7 @@ include("./_head.php"); ?>
 
 	} else {
 		// no search terms provided
-		echo "<h2>Wpisz poszukiwaną frazę w polu wyszukiwania (w dolnej części stopce)</h2>";
+		echo "<h2>Wpisz poszukiwaną frazę w polu wyszukiwania (w dolnej części stopki)</h2>";
 	}
 
 	?>
